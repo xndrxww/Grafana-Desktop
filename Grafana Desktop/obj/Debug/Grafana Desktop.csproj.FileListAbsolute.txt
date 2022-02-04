@@ -1,0 +1,15 @@
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\bin\Debug\Grafana Desktop.exe.config
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\bin\Debug\Grafana Desktop.exe
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\bin\Debug\Grafana Desktop.pdb
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\Grafana Desktop.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\App.g.cs
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\Grafana Desktop_MarkupCompile.cache
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\Grafana Desktop_MarkupCompile.lref
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\MainWindow.baml
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\Grafana Desktop.g.resources
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\Grafana_Desktop.Properties.Resources.resources
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\Grafana Desktop.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\Grafana Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\Grafana Desktop.exe
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\Grafana Desktop.pdb
