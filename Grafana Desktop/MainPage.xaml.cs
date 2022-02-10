@@ -15,14 +15,14 @@ using System.Windows.Shapes;
 
 namespace Grafana_Desktop
 {
-    public partial class MainWindow : Window
+    /// <summary>
+    /// Логика взаимодействия для MainPage.xaml
+    /// </summary>
+    public partial class MainPage : Page
     {
-        public static Frame MainFrameInstance;
-        public MainWindow()
+        public MainPage()
         {
             InitializeComponent();
-            MainFrameInstance = MainFrame;
-            MainFrame.Navigate(new MainPage());
         }
     }
 }

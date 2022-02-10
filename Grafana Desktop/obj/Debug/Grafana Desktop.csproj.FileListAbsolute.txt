@@ -13,3 +13,5 @@ C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\Gra
 C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\Grafana Desktop.csproj.CoreCompileInputs.cache
 C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\Grafana Desktop.exe
 C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\Grafana Desktop.pdb
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\MainPage.g.cs
+C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\MainPage.baml
