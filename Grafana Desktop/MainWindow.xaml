@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Grafana_Desktop"
         mc:Ignorable="d"
         Title="MainWindow" Height="1080" Width="1920" WindowStartupLocation="CenterScreen" WindowState="Maximized">
-    <Grid>
+    <Grid Background="#202226">
         <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden"/> 
     </Grid>
 </Window>

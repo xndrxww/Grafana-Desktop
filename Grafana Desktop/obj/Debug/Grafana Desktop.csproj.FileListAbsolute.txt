@@ -15,3 +15,20 @@ C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\Gra
 C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\Grafana Desktop.pdb
 C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\MainPage.g.cs
 C:\Users\Андрей\source\repos\Grafana Desktop\Grafana Desktop\obj\Debug\MainPage.baml
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\bin\Debug\Grafana Desktop.exe.config
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\bin\Debug\Grafana Desktop.exe
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\bin\Debug\Grafana Desktop.pdb
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\obj\Debug\Grafana Desktop.csproj.AssemblyReference.cache
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\obj\Debug\MainPage.g.cs
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\obj\Debug\MainWindow.g.cs
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\obj\Debug\App.g.cs
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\obj\Debug\Grafana Desktop_MarkupCompile.cache
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\obj\Debug\Grafana Desktop_MarkupCompile.lref
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\obj\Debug\MainPage.baml
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\obj\Debug\MainWindow.baml
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\obj\Debug\Grafana Desktop.g.resources
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\obj\Debug\Grafana_Desktop.Properties.Resources.resources
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\obj\Debug\Grafana Desktop.csproj.GenerateResource.cache
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\obj\Debug\Grafana Desktop.csproj.CoreCompileInputs.cache
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\obj\Debug\Grafana Desktop.exe
+C:\Users\a.s.kuznetsov\Desktop\3\Grafana-Desktop\Grafana Desktop\obj\Debug\Grafana Desktop.pdb

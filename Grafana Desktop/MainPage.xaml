@@ -9,6 +9,6 @@
       Title="MainPage">
 
     <Grid>
-        <TextBlock TextAlignment="Center">Главная страница</TextBlock>
+        <TextBlock TextAlignment="Center" Foreground="White" FontSize="40">Главная страница</TextBlock>
     </Grid>
 </Page>
